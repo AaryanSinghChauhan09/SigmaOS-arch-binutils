@@ -3,7 +3,7 @@ name = "SigmaOS-arch-binutils"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-binutils component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
